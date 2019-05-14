@@ -1,0 +1,7 @@
+{
+  "name": "mtcextendee/mautic-fast-contact-update-bundle",
+  "type": "mautic-plugin",
+  "require": {
+    "mautic/composer-plugin": "^1.0"
+  }
+}
