@@ -5,6 +5,7 @@ Plugin added item to contact list to set value of contact any field. You can set
 The best work with Custom columns pull requests: https://github.com/mautic/mautic/pull/7511
 
 - support me on <a href="https://mtcextendee.com">mtcextendee.com</a>
+- download free Mautic email themes https://mtcextendee.com/themes/
 
 ## Installation
 
