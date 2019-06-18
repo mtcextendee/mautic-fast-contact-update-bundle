@@ -16,7 +16,7 @@ The best work with Custom columns pull requests: https://github.com/mautic/mauti
 
 ### Manual 
 - Download last version https://github.com/mtcextendee/mautic-fast-contact-update-bundle/releases
-- Unzip files to plugins/MauticFastContactBundle
+- Unzip files to plugins/MauticFastContactUpdateBundle
 - Go to /s/plugins/reload
 - Setup FastContactUpdate integration
 
