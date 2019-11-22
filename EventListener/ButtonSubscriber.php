@@ -94,6 +94,13 @@ class ButtonSubscriber extends CommonSubscriber
                 'mautic_contact_index'
             );
 
+        $event
+            ->addButton(
+                $button,
+                ButtonHelper::LOCATION_PAGE_ACTIONS,
+                ['mautic_contact_action', ['objectAction' => 'view']]
+            );
+
     }
 
 }
